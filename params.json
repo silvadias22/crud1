@@ -1,6 +1,6 @@
 {
-  "name": "[C]reate [R]ead [U]pdate [D]elete",
+  "name": "<?php echo $CRUD ; ?>",
   "tagline": "Fabrício da Silva Dias",
-  "body": "## O que é um CRUD?\r\n\r\nCrud é o nome dado a junção das _quatros operações fundamentais_, cujo cada item está presente na maior parte dos sistemas. Seu significado é: Create, Read, Update, Delete, cuja interpretação ao pé da letra é, inserir, buscar, editar e deletar, também chamado de ISUD, Insert, Select, Update e Delete.\r\n\r\nPara iniciar a apresentação, devemos deixar claro que o objetivo é demonstrar essas operações em um sistema web, cuja formação integra as seguintes linguagens, php, html, javascript, além de utilizar um banco de dados em MySQL.\r\n\r\nNível: Médiano\r\n\r\n### [DEMO](http://crud1.estagiario.netai.net/index.php)\r\n\r\nAutor - Fabrício da Silva Dias\r\n",
+  "body": "## O que é um CRUD?\r\n\r\nCrud é o nome dado a junção das _quatros operações fundamentais_, cujo cada item está presente na maior parte dos sistemas. Seu significado é: Create, Read, Update, Delete, cuja interpretação ao pé da letra é, inserir, buscar, editar e deletar, também chamado de ISUD, Insert, Select, Update e Delete.\r\n\r\nPara iniciar a apresentação, devemos deixar claro que o objetivo é demonstrar essas operações em um sistema web, cuja formação integra as seguintes linguagens, php, html, javascript, além de utilizar um banco de dados em MySQL.\r\n\r\nNível: Intermediário\r\n\r\n[DEMO](http://crud1.estagiario.netai.net/index.php)\r\n\r\nAutor - Fabrício da Silva Dias\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
