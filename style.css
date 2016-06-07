@@ -1,0 +1,35 @@
+input{
+	margin-top: 5px;
+
+}
+
+#conteudo{
+	margin-top: 70px;
+
+}
+
+#tabelaLocal{
+	margin-top: 50px;
+	
+}
+
+#registro{
+	cursor: pointer;
+	
+}
+
+#tr1{
+	
+	background-color: #C8E6C8;
+
+}
+
+#exibirRegistros{
+	margin-top: 5px;
+	
+}
+
+select{
+	margin: 5px 0px 30px 0px;
+	
+}
